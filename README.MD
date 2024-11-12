@@ -1,4 +1,10 @@
 # IS
+## L'algorithme de Runge-Kutta
+    - est une méthode numérique pour résoudre les problèmes liée aux équations différentielles ordinaires(EDO).
+    - Cette algorithme permet d'approcher les solutions en plusieurs étapes
+
+
+
 
 ## Requirements
 
